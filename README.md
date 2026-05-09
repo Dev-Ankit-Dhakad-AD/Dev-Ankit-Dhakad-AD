@@ -6,7 +6,7 @@
 <img src="https://github.com/Dev-Ankit-Dhakad-AD/Dev-Ankit-Dhakad-AD/blob/main/Gemini_Generated_Image_i2zzfi2zzfi2zzfi.png?raw=true" alt="Ankit Dhakad Banner" width="100%">
 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=Ankit-Dhakad-AD&color=blue&style=flat-square&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Dev-Ankit-Dhakad-AD&color=blue&style=flat-square&label=Profile+views)
 
 ---
 
