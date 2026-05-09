@@ -1,6 +1,8 @@
 # Hi 👋, I'm Ankit Dhakad
 
 ### A passionate Website and Application Developer from India
+![Uploading hbhg.png…]()
+![Uploading Gemini_Generated_Image_i2zzfi2zzfi2zzfi.png…]()
 
 <img src="LINK_TO_YOUR_BANNER_IMAGE_HERE" alt="Ankit Dhakad Banner" width="100%">
 
