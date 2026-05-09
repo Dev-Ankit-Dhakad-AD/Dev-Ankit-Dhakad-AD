@@ -1,10 +1,9 @@
 # Hi 👋, I'm Ankit Dhakad
 
 ### A passionate Website and Application Developer from India
-![Uploading hbhg.png…]()
-![Uploading Gemini_Generated_Image_i2zzfi2zzfi2zzfi.png…]()
 
-<img src="LINK_TO_YOUR_BANNER_IMAGE_HERE" alt="Ankit Dhakad Banner" width="100%">
+
+<img src="https://github.com/Dev-Ankit-Dhakad-AD/Dev-Ankit-Dhakad-AD/blob/main/Gemini_Generated_Image_i2zzfi2zzfi2zzfi.png?raw=true" alt="Ankit Dhakad Banner" width="100%">
 
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Ankit-Dhakad-AD&color=blue&style=flat-square&label=Profile+views)
