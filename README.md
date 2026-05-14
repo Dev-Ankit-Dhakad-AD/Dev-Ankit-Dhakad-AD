@@ -1,139 +1,131 @@
-<div align="center">
-
 # 🚀 Ankit Dhakad
+
+<div align="center">
 
 ### Full-Stack Developer • React • Next.js • Flutter • Kotlin
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%2B+Flutter+Developer;Building+Modern+Web+%26+Mobile+Apps;Open+to+Remote+Work+%26+Freelance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Flutter+%2B+React+Developer;Building+Modern+Web+%26+Mobile+Apps;Open+to+Remote+Work+%26+Freelance" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Available_Now-22c55e?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Remote-Friendly-8b5cf6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bhopal_India-3b82f6?style=for-the-badge"/>
+![Status](https://img.shields.io/badge/Status-Available%20Now-22c55e?style=for-the-badge)
+![Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-8b5cf6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Bhopal%2C%20India-3b82f6?style=for-the-badge)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
-
-<table>
-<tr>
-<td>
+## 👨‍💻 About Me
 
 ```js
 const ankit = {
+  name: "Ankit Dhakad",
   role: "Full-Stack Developer",
-  stack: [
-    "React",
-    "Next.js",
-    "Flutter",
-    "Kotlin"
-  ],
-  
-  currentlyBuilding: [
-    "Annapurna Daily Needs",
-    "MB Tractors"
-  ],
-
-  learning: [
+  stack: ["React", "Next.js", "Flutter", "Kotlin"],
+  location: "Bhopal, Madhya Pradesh, India",
+  education: "Polytechnic Diploma — CS Engineering",
+  focus: "Remote Jobs & Freelance Projects",
+  currentlyLearning: [
     "Flutter BLoC",
     "AI Integration",
     "Testing"
   ],
-
-  funFact:
-   "I debug with chai ☕"
-}
+  funFact: "I debug with chai ☕ and ship with passion 🔥"
+};
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
 # ⚡ Tech Stack
 
-<div align="center">
+## 🎨 Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-| Frontend | Mobile | Backend | Tools |
-|---|---|---|---|
-| ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B) | ![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28) | ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032) |
-| ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white) | ![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=7F52FF) | ![REST API](https://img.shields.io/badge/REST_API-0f172a?style=for-the-badge&logo=fastapi&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E) |
+---
 
-</div>
+## 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-0f172a?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+
+---
+
+## 🔥 Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
 ## 🌐 Portfolio Website
-
-Modern personal portfolio website.
-
-### ⚙️ Tech
-`JavaScript` `HTML` `CSS`
-
-### 🔗 Live
+🔗 **Live Demo:**  
 https://ankit-dhakad-ad.vercel.app/
 
-</td>
+💡 Personal portfolio website built using JavaScript, HTML & CSS.
 
-<td width="50%">
+**Tech Used:**  
+`JavaScript` `HTML` `CSS`
+
+---
 
 ## 🚜 MB Tractors
-
-Business website with SEO optimization.
-
-### ⚙️ Tech
-`Next.js` `TypeScript`
-
-### 🔗 Live
+🔗 **Live Demo:**  
 https://mbtractorshivpuri.vercel.app/
 
-</td>
+💡 Business website powered by MB Finance with SEO optimization.
 
-</tr>
+**Tech Used:**  
+`TypeScript` `Next.js` `SEO`
 
-<tr>
-
-<td width="50%">
+---
 
 ## 🏨 Maaraj Rajeshwari Hotel
-
-Responsive hotel showcase website.
-
-### ⚙️ Tech
-`JavaScript` `CSS`
-
-### 🔗 Live
+🔗 **Live Demo:**  
 https://maarajrajeshwarihotel.vercel.app/
 
-</td>
+💡 Hotel showcase website with responsive design and booking presentation.
 
-<td width="50%">
+**Tech Used:**  
+`CSS` `JavaScript`
+
+---
 
 ## 🛵 Annapurna Daily Needs
-
-Quick commerce grocery delivery app.
-
-### ⚙️ Tech
-`Flutter` `Firebase` `React`
-
-### 🔗 Live
+🔗 **Live Demo:**  
 https://annapurnadailyneeds.vercel.app/
 
-</td>
+💡 Quick commerce grocery delivery application.
 
-</tr>
-</table>
+**Tech Used:**  
+`Flutter` `Firebase` `React`
+
+---
+
+# 🧠 Currently Building
+
+## 📦 Annapurna Daily Needs — Grocery Delivery App
+
+```txt
+├── Flutter      → Mobile App
+├── React        → Admin Panel
+├── Firebase     → Database + Authentication
+└── Vercel       → Deployment
+```
+
+## 🚜 MB Tractors — Business Website
+
+```txt
+└── Next.js → Design → Launch → SEO
+```
+
+🟢 Status: Active Development 🚀
 
 ---
 
@@ -141,26 +133,11 @@ https://annapurnadailyneeds.vercel.app/
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dev-Ankit-Dhakad-AD&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Ankit-Dhakad-AD&show_icons=true&theme=tokyonight&border_radius=12)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ankit-Dhakad-AD&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ankit-Dhakad-AD&layout=compact&theme=tokyonight&border_radius=12)
 
 </div>
-
----
-
-# 🔥 Current Focus
-
-```txt
-📦 Annapurna Daily Needs
-├── Flutter Mobile App
-├── React Admin Panel
-├── Firebase Backend
-└── Vercel Deployment
-
-🚜 MB Tractors
-└── Next.js Business Website
-```
 
 ---
 
@@ -168,21 +145,17 @@ https://annapurnadailyneeds.vercel.app/
 
 <div align="center">
 
-<a href="https://github.com/Dev-Ankit-Dhakad-AD">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Ankit-Dhakad-AD)
 
-<a href="https://www.linkedin.com/in/ankit-dhakad-27938a2a3/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ankit-dhakad-27938a2a3/)
 
-<a href="https://www.instagram.com/ankitdhakad_.mp_33/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/ankitdhakad_.mp_33/)
 
-<a href="mailto:andhakad36@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+[![Facebook](https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=61574571536532)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit-dhakad-ad.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:andhakad36@gmail.com)
 
 </div>
 
@@ -190,6 +163,6 @@ https://annapurnadailyneeds.vercel.app/
 
 <div align="center">
 
-### ⚡ Code • Build • Deploy • Repeat
+### ⚡ "Code. Create. Ship. Repeat."
 
 </div>
