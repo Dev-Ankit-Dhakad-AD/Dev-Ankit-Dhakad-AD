@@ -1,18 +1,3 @@
-GitHub README me **exact same animated HTML UI** possible nahi hai because GitHub CSS aur JS sanitize karta hai.
-Lekin tum uske **very close modern look** bana sakte ho using:
-
-* HTML tables
-* Shields badges
-* SVG banners
-* GIF previews
-* `<img>` cards
-* centered layouts
-
-Ye approach use karke README visually premium dikhega instead of plain markdown.
-
-Yeh version GitHub README me properly render hoga aur modern portfolio jaisa lagega:
-
-````md id="q7mda2"
 <div align="center">
 
 # 🚀 Ankit Dhakad
@@ -208,4 +193,3 @@ https://annapurnadailyneeds.vercel.app/
 ### ⚡ Code • Build • Deploy • Repeat
 
 </div>
-````
