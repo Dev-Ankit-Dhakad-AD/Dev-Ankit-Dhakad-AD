@@ -10,7 +10,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Available%20Now-22c55e?style=for-the-badge)
 ![Remote](https://img.shields.io/badge/Open%20to-Remote%20Work-8b5cf6?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Bhopal%2C%20India-3b82f6?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Shivpuri%2C%20MP-3b82f6?style=for-the-badge)
 
 </div>
 
@@ -86,7 +86,7 @@ https://mbtractorshivpuri.vercel.app/
 
 ---
 
-## 🏨 Maaraj Rajeshwari Hotel
+## 🏨 Maa Rajrajeshwari Hotel
 🔗 **Live Demo:**  
 https://maarajrajeshwarihotel.vercel.app/
 
@@ -143,7 +143,7 @@ https://annapurnadailyneeds.vercel.app/
 
 # 🌍 Connect With Me
 
-<div align="center">
+<div align="left">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Ankit-Dhakad-AD)
 
